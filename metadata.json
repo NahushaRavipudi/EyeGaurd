@@ -1,0 +1,8 @@
+{
+  "name": "EyeGuard",
+  "description": "A comprehensive eye health companion for families, featuring parent analytics, child-friendly dashboards, and 20-20-20 break reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
