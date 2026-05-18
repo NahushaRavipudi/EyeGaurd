@@ -56,9 +56,6 @@ The app combines screen-time tracking, AI-based eye strain prediction, and gamif
 
 **Frontend:** Flutter / React Native  
 **Backend:** Node.js + Express.js  
-**Database:** MongoDB  
-**Cloud Services:** Firebase (Auth, FCM, Analytics)
-
 ---
 
 ## 🔐 Security & Scalability
